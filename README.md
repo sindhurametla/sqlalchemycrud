@@ -107,4 +107,4 @@ User added successfully
 
 Sindhura Metla
 
-GitHub: https://github.com/sindhurametla
+GitHub: https://github.com/sindhurametla/sqlalchemycrud.git
